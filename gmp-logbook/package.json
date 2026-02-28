@@ -11,7 +11,7 @@
     "react-dom": "^19.2.4",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4",
-    "homepage": "https://aurelienduquesne421-ops.github.io/gmp-logbook"
+    "homepage": "https://aurel-ops.github.io/test"
   },
   "scripts": {
     "start": "react-scripts start",
